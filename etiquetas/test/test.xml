@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>  
+<Biblioteca>  
+<Libro>  
+"La catalogacion de este libro se ha llevado a cabo a partir de informacion 
+historica recopilada de varias fuentes"  
+  <Titulo>  
+    "La Luna era mi Tierra"  
+  </Titulo>  
+  <Autor>  
+      <Nombre tipo = "Nombre">  
+          "Enrique Araya"  
+      </Nombre>  
+      <Nombre tipo = "Apodo">  
+          "Quike"  
+      </Nombre>  
+ </Autor>  
+<Novela tipoNovela = "Vivencias"/>  
+</Libro>  
+<Libro>  
+   <Titulo>  
+     "Introduccion a la Teoria de Automatas, Lenguajes y Computacion"  
+   </Titulo>  
+  <Autor>  
+      <Nombre tipo = "nombre">  
+            "John E. Hopcroft"  
+      </Nombre>  
+  </Autor>  
+<LibroTexto clasificacion = "Informatica Teorica"/>  
+</Libro>  
+</Biblioteca> 
